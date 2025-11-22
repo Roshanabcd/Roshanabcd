@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanabcd&label=Profile%20views&color=0e75b6&style=flat" alt="roshanabcd" /> </p>
 
 <p align="left"> <a href="https://x.com/RoshanS47157151" target="blank"><img src="https://img.shields.io/twitter/follow/roshan?logo=twitter&style=for-the-badge" alt="roshan" /></a> </p>
-<pre>
+
 - 🔭 I’m currently studying Computer Science and information Technology. [National Infotech](https://nationalinfotechcollege.edu.np/)
 
 - 🌱 I’m currently learning **React, Mongodb**
@@ -22,7 +22,7 @@
 - 📄 Know about my experiences [https://goodcv/roshansharma](https://goodcv/roshansharma)
 
 - ⚡ Fun fact **I think I am funny**
-</pre>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshan" height="30" width="40" /></a>
